@@ -1,1 +1,6 @@
+/logs/
 /airbnb/profiles.yml
+/airbnb/.user.yml
+/airbnb/logs/
+/airbnb/target/
+/airbnb/dbt_packages/
